@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<!-- saved from url=(0064)https://rangasai1919.github.io/htmlalltags/flex%20child/nicepage -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./Document_files/page.css">
+</head>
+<body>
+    <div class="top">
+        <div class="top_right">
+            <a href="https://nicepage.com/">
+                <img src="./Document_files/nicepage1.jpg" alt="" width="150px">
+            </a>
+            <div class="top_left">
+                <a href="https://csite.nicepage.com/Images/Site/responsive-desktop.png">
+                    <img src="./Document_files/desktop mode.png" alt="">
+                </a>
+                <a href="https://csite.nicepage.com/Images/Site/responsive-laptop.png">
+                    <img src="./Document_files/laptop mode.png" alt="">
+                </a>
+                <a href="https://csite.nicepage.com/Images/Site/responsive-tablet.png">
+                    <img src="./Document_files/responsive-tablet.jpg" alt="">
+                </a>
+                <a href="https://csite.nicepage.com/Images/Site/responsive-phone-horizontal.png">
+                    <img src="./Document_files/phone-horizontal.png" alt="">
+                </a>
+                <a href="https://csite.nicepage.com/Images/Site/responsive-phone.png">
+                    <img src="./Document_files/phone.png" alt="">
+                </a>
+            </div>
+        </div>
+        <div class="container">
+            <div class="parent">
+            <div class="item item1">
+                <div style="text-align: center;"><h1>Strategy</h1>
+                <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p></div>
+                
+            </div>
+            <div class="item item2" style="text-align: center;"><h1>Results
+            </h1>
+        <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p></div>
+            <div class="item item3" style="text-align: center;"><h1>Expertise</h1>
+            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+    
+            </p></div>
+            <div class="item item4" style="text-align: center;"><h1>Support</h1>
+            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+    
+            </p></div>
+        </div>
+        </div>
+    </div>
+
+</body></html>
